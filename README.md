@@ -7,7 +7,7 @@
 
 Former OpenAI software engineer.
 
-When my parents couldn’t work anymore,  
+When my parents couldn’t work anymore due to a tragic accident,  
 I built something that could.
 
 **One wallet. Defined risk. Silent compounding.**
