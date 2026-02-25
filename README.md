@@ -4,6 +4,7 @@
 <br><br>
 
 # Wysper
+![license](https://img.shields.io/badge/license-MIT-informational)
 
 Former OpenAI software engineer.
 
