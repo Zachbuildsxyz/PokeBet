@@ -21,8 +21,6 @@ I built something that could.
 
 _Public build. Early stage — bear with me._
 
-## Configuration
-
 Wysper Solana address: 5zrpR5H3e8SJg1ndWau69EzX3jVpkyYDgP7uDDKoMNod                                                                              
  ## Configuration
 
