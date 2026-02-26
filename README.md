@@ -21,7 +21,7 @@ I built something that could.
 
 _Public build. Early stage — bear with me._
 
-Wysper Solana address: 5zrpR5H3e8SJg1ndWau69EzX3jVpkyYDgP7uDDKoMNod                                                                              
+Wysper Solana address: J4NaWR2mEARqvYg7ttWVQRMLcWBGYPx1sYN1uhcFVzHR                                                                            
  ## Configuration
 
 Copy `config.example.json` to `config.json` and adjust limits.
